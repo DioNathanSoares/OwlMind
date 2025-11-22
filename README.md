@@ -140,4 +140,4 @@ Sendo um projeto *static*, você pode usar algumas opções de visualização:
 
 ## 🔗 Links
 - **GitHub Pages**: *https://github.com/DioNathanSoares*
-- **Repositório**: https://github.com/<seu-usuario>/owlmind
+- **Repositório**: https://github.com/DioNathanSoares/OwlMind
