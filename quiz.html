@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz - OwlMind</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body data-page="quiz">
+
+<main class="container quiz-layout">
+    <aside class="mascote-aside">
+      <img src="assets/img/Corujinha_pensando.png" alt="Corujinha pensando" class="mascote" />
+    </aside>
+
+    <section class="quiz-section card">
+      <div class="quiz-header">
+        <h2 id="quiz-title">Quiz</h2>
+        <div class="progress"><div id="progress-bar" class="progress__bar"></div></div>
+      </div>
+
+      <article id="question-card" class="question-card">
+        <p id="question-text">Carregando...</p>
+        <ul id="options-list" class="options"></ul>
+      </article>
+      
+      <div class="quiz-controls">
+        <button id="hint-btn" class="btn">Mostrar dica</button>
+        <button id="quit-btn" class="btn btn-secondary">Desistir</button>
+        <button id="next-btn" class="btn btn-primary" disabled>Próxima</button>
+      </div>
+      <div id="hint-area" class="hint" hidden></div>
+      <div id="feedback" class="quiz-feedback" aria-live="polite"></div>
+    </section>
+</main>
+
+  <div id="confirm-modal" class="modal" hidden>
+    <div class="modal__dialog">
+      <h3>Deseja confirmar sua resposta?</h3>
+        <div class="modal__actions">
+          <button id="confirm-yes" class="btn btn-primary">Sim</button>
+          <button id="confirm-no" class="btn">Não</button>
+        </div>
+    </div>
+  </div>
+  
+  <div id="quit-modal" class="modal" hidden>
+    <div class="modal__dialog">
+    <h3>Deseja desistir desta partida?</h3>
+      <div class="modal__actions">
+        <button id="quit-yes" class="btn btn-primary">Sim</button>
+        <button id="quit-no" class="btn">Não</button>
+      </div>
+    </div>
+  </div>
+
+<script src="assets/js/owlmind.js"></script>
+
+</body>
+</html>

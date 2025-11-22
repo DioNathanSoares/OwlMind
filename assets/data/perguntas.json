@@ -1,0 +1,582 @@
+{
+  "esporte": [
+    {
+      "pergunta": "Em qual esporte se marca touchdown?",
+      "alternativas": [
+        "a) Rugby",
+        "b) Futebol Americano",
+        "c) Handebol",
+        "d) Basquete"
+      ],
+      "resposta": "b",
+      "dica": "Touchdown vale 6 pontos e as jogadas são curtas."
+    },
+    {
+      "pergunta": "No futebol, quantos jogadores cada time tem em campo?",
+      "alternativas": [
+        "a) 9",
+        "b) 10",
+        "c) 11",
+        "d) 12"
+      ],
+      "resposta": "c",
+      "dica": "Não esqueça de contar o goleiro."
+    },
+    {
+      "pergunta": "Qual é o principal torneio de clubes da Europa no futebol?",
+      "alternativas": [
+        "a) Copa América",
+        "b) Liga dos Campeões (UEFA)",
+        "c) Eurocopa",
+        "d) Libertadores"
+      ],
+      "resposta": "b",
+      "dica": "Conhecida por entregar um troféu com grandes alças."
+    },
+    {
+      "pergunta": "Em qual esporte a raquete é usada para golpear peteca?",
+      "alternativas": [
+        "a) Tênis",
+        "b) Badminton",
+        "c) Squash",
+        "d) Tênis de mesa"
+      ],
+      "resposta": "b",
+      "dica": "A peteca não deve cair entre os dois jogadores do time."
+    },
+    {
+      "pergunta": "Em corridas de atletismo, a prova de 42,195 km é chamada de:",
+      "alternativas": [
+        "a) Meia maratona",
+        "b) Ultramaratona",
+        "c) Maratona",
+        "d) Cross-country"
+      ],
+      "resposta": "c",
+      "dica": "Distância clássica da corrida longa."
+    },
+    {
+      "pergunta": "Qual equipamento é obrigatório no ciclismo de estrada?",
+      "alternativas": [
+        "a) Capacete",
+        "b) Joelheira",
+        "c) Luvas",
+        "d) Caneleira"
+      ],
+      "resposta": "a",
+      "dica": "É um item essencial para a segurança e evitar traumas."
+    },
+    {
+      "pergunta": "No vôlei, quantos toques por lado são permitidos antes de passar a bola?",
+      "alternativas": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "resposta": "b",
+      "dica": "Nessa contagem não entra o toque do bloqueio."
+    },
+    {
+      "pergunta": "Em qual esporte acontece o Grand Slam Roland Garros?",
+      "alternativas": [
+        "a) Tênis",
+        "b) Golfe",
+        "c) Rúgbi",
+        "d) Críquete"
+      ],
+      "resposta": "a",
+      "dica": "Roland Garros é disputado no saibro, em Paris."
+    },
+    {
+      "pergunta": "Em qual modalidade usa-se prancha e ondas?",
+      "alternativas": [
+        "a) Windsurf",
+        "b) Surfe",
+        "c) Skate",
+        "d) Hóquei"
+      ],
+      "resposta": "b",
+      "dica": "É um esporte que os praticantes estão na água."
+    },
+    {
+      "pergunta": "Qual é a posição responsável por defender a meta no handebol?",
+      "alternativas": [
+        "a) Ponta",
+        "b) Armador",
+        "c) Goleiro",
+        "d) Central"
+      ],
+      "resposta": "c",
+      "dica": "Esse jogador é essencial pra evitar ponto do adversário."
+    },
+    {
+      "pergunta": "No basquete, uma cesta de fora do arco vale:",
+      "alternativas": [
+        "a) 1 ponto",
+        "b) 2 pontos",
+        "c) 3 pontos",
+        "d) 4 pontos"
+      ],
+      "resposta": "c",
+      "dica": "Arremessos além da linha é algo mágico."
+    },
+    {
+      "pergunta": "Qual é o principal evento esportivo mundial realizado a cada quatro anos?",
+      "alternativas": [
+        "a) Copa do Mundo de Rugby",
+        "b) Jogos Olímpicos",
+        "c) X Games",
+        "d) Tour de France"
+      ],
+      "resposta": "b",
+      "dica": "Essa disputa reune diversas modalidades."
+    }
+  ],
+  "lazer": [
+    {
+      "pergunta": "Qual é uma atividade comum de lazer ao ar livre?",
+      "alternativas": [
+        "a) Jardinagem",
+        "b) Compilar código",
+        "c) Estocar mantimentos",
+        "d) Soldagem"
+      ],
+      "resposta": "a",
+      "dica": "É uma prática quase terapêutica."
+    },
+    {
+      "pergunta": "Um board game cooperativo é aquele em que:",
+      "alternativas": [
+        "a) Cada um joga sozinho",
+        "b) Jogadores cooperam contra o jogo",
+        "c) Sempre há dupla fixa",
+        "d) Não tem regra"
+      ],
+      "resposta": "b",
+      "dica": "Todos vencem ou perdem juntos contra o sistema."
+    },
+    {
+      "pergunta": "Em fotografia, “modo retrato” geralmente desfoca:",
+      "alternativas": [
+        "a) O assunto",
+        "b) O fundo (background)",
+        "c) A lente",
+        "d) O sensor"
+      ],
+      "resposta": "b",
+      "dica": "Maior abertura cria desfoque no fundo."
+    },
+    {
+      "pergunta": "Em trilhas, item essencial de segurança é:",
+      "alternativas": [
+        "a) Chapéu de festa",
+        "b) Sanfona",
+        "c) Lanterna/Headlamp",
+        "d) Garrafa de tinta"
+      ],
+      "resposta": "c",
+      "dica": "É fundamental para guiar o caminho e evitar imprevistos."
+    },
+    {
+      "pergunta": "Em jogos digitais, FPS significa:",
+      "alternativas": [
+        "a) Frames por Segundo",
+        "b) First Person Shooter",
+        "c) Ambos",
+        "d) Nenhum"
+      ],
+      "resposta": "c",
+      "dica": "Pode significar ambos dependendo do contexto."
+    },
+    {
+      "pergunta": "Qual gênero de filme prioriza risadas e leveza?",
+      "alternativas": [
+        "a) Drama",
+        "b) Suspense",
+        "c) Comédia",
+        "d) Terror"
+      ],
+      "resposta": "c",
+      "dica": "Todo mundo precisa de um pastelão."
+    },
+    {
+      "pergunta": "Em leitura, e-reader é um:",
+      "alternativas": [
+        "a) Aplicativo de edição",
+        "b) Dispositivo dedicado a livros digitais",
+        "c) Formato de arquivo",
+        "d) Serviço de streaming"
+      ],
+      "resposta": "b",
+      "dica": "Ex.: Kindle, Kobo."
+    },
+    {
+      "pergunta": "Qual hobby envolve montar blocos interligáveis?",
+      "alternativas": [
+        "a) Origami",
+        "b) Lego",
+        "c) Crochê",
+        "d) Marcenaria"
+      ],
+      "resposta": "b",
+      "dica": "Já virou até jogo no console da Sony."
+    },
+    {
+      "pergunta": "No camping, o saco de dormir deve ser escolhido por:",
+      "alternativas": [
+        "a) Cor",
+        "b) Temperatura de conforto",
+        "c) Marca da barraca",
+        "d) Quantidade de bolsos"
+      ],
+      "resposta": "b",
+      "dica": "Deve gerar conforto térmico."
+    },
+    {
+      "pergunta": "Em culinária, “mise en place” significa:",
+      "alternativas": [
+        "a) Lavar a louça",
+        "b) Cozer ao vapor",
+        "c) Organizar os ingredientes antes",
+        "d) Grelhar"
+      ],
+      "resposta": "c",
+      "dica": "Organizar tudo faz parte da receita."
+    },
+    {
+      "pergunta": "BPM em música refere-se a:",
+      "alternativas": [
+        "a) Bits por Módulo",
+        "b) Batidas por Minuto",
+        "c) Barras por Medida",
+        "d) Baixo por Melodia"
+      ],
+      "resposta": "b",
+      "dica": "Unidade para tempo/andamento musical."
+    },
+    {
+      "pergunta": "No xadrez, a peça que se move em “L” é o:",
+      "alternativas": [
+        "a) Bispo",
+        "b) Cavalo",
+        "c) Torre",
+        "d) Rei"
+      ],
+      "resposta": "b",
+      "dica": "É o fiel escudeiro do bispo."
+    },
+    {
+      "pergunta": "Em desenho, “perspectiva” ajuda a:",
+      "alternativas": [
+        "a) Escolher cores",
+        "b) Criar profundidade",
+        "c) Lustrar o papel",
+        "d) Salvar o arquivo"
+      ],
+      "resposta": "b",
+      "dica": "Dá sensação de tridimensionalidade."
+    },
+    {
+      "pergunta": "Streaming de vídeo é:",
+      "alternativas": [
+        "a) Download permanente",
+        "b) Transmissão sob demanda via internet",
+        "c) Somente ao vivo",
+        "d) Formato físico"
+      ],
+      "resposta": "b",
+      "dica": "Ex.: assistir filmes sem baixar tudo antes."
+    },
+    {
+      "pergunta": "Em viagens, um roteiro flexível deve:",
+      "alternativas": [
+        "a) Não ter reservas",
+        "b) Prever prioridades e margens",
+        "c) Ignorar horários",
+        "d) Evitar mapas"
+      ],
+      "resposta": "b",
+      "dica": "Permite ajustes mantendo objetivos."
+    }
+  ],
+  "cultura": [
+    {
+      "pergunta": "Quem pintou “A Monalisa”?",
+      "alternativas": [
+        "a) Michelangelo",
+        "b) Leonardo da Vinci",
+        "c) Van Gogh",
+        "d) Picasso"
+      ],
+      "resposta": "b",
+      "dica": "Obra renascentista, exposta no Louvre."
+    },
+    {
+      "pergunta": "O escritor de “Dom Quixote” é:",
+      "alternativas": [
+        "a) José Saramago",
+        "b) Miguel de Cervantes",
+        "c) Jorge Luis Borges",
+        "d) Gabriel García Márquez"
+      ],
+      "resposta": "b",
+      "dica": "Clássico da literatura espanhola."
+    },
+    {
+      "pergunta": "O samba é um gênero musical tradicional de qual país?",
+      "alternativas": [
+        "a) Portugal",
+        "b) Brasil",
+        "c) Cuba",
+        "d) Espanha"
+      ],
+      "resposta": "b",
+      "dica": "Símbolo cultural brasileiro."
+    },
+    {
+      "pergunta": "O idioma oficial do Egito é:",
+      "alternativas": [
+        "a) Inglês",
+        "b) Árabe",
+        "c) Francês",
+        "d) Grego"
+      ],
+      "resposta": "b",
+      "dica": "É predominante o idioma do Islã."
+    },
+    {
+      "pergunta": "Qual movimento artístico usa formas geométricas e fragmentação?",
+      "alternativas": [
+        "a) Impressionismo",
+        "b) Cubismo",
+        "c) Barroco",
+        "d) Surrealismo"
+      ],
+      "resposta": "b",
+      "dica": "Associado a Picasso e Braque."
+    },
+    {
+      "pergunta": "O festival de Cannes celebra principalmente:",
+      "alternativas": [
+        "a) Teatro",
+        "b) Cinema",
+        "c) Dança",
+        "d) Pintura"
+      ],
+      "resposta": "b",
+      "dica": "Mostra inspirada na França."
+    },
+    {
+      "pergunta": "A obra “Os Lusíadas” foi escrita por:",
+      "alternativas": [
+        "a) Camilo Castelo Branco",
+        "b) Luís de Camões",
+        "c) Fernando Pessoa",
+        "d) Eça de Queiroz"
+      ],
+      "resposta": "b",
+      "dica": "Poema épico decassilabo do século XVI."
+    },
+    {
+      "pergunta": "Qual país é berço do anime?",
+      "alternativas": [
+        "a) China",
+        "b) Japão",
+        "c) Coreia do Sul",
+        "d) Filipinas"
+      ],
+      "resposta": "b",
+      "dica": "Indústria do sol nascente."
+    },
+    {
+      "pergunta": "A capital cultural da Itália, famosa por arte renascentista, é:",
+      "alternativas": [
+        "a) Roma",
+        "b) Florença",
+        "c) Milão",
+        "d) Veneza"
+      ],
+      "resposta": "b",
+      "dica": "Abriga obras de Da Vinci, Michelangelo etc."
+    },
+    {
+      "pergunta": "Qual dança típica da Argentina?",
+      "alternativas": [
+        "a) Flamenco",
+        "b) Tango",
+        "c) Salsa",
+        "d) Forró"
+      ],
+      "resposta": "b",
+      "dica": "Nasceu em Buenos Aires/Montevidéu."
+    },
+    {
+      "pergunta": "Qual instrumento é de sopro?",
+      "alternativas": [
+        "a) Violino",
+        "b) Piano",
+        "c) Flauta",
+        "d) Bateria"
+      ],
+      "resposta": "c",
+      "dica": "É um instrumento aerofone."
+    },
+    {
+      "pergunta": "Quem escreveu “Capitães da Areia”?",
+      "alternativas": [
+        "a) Graciliano Ramos",
+        "b) Jorge Amado",
+        "c) Machado de Assis",
+        "d) Clarice Lispector"
+      ],
+      "resposta": "b",
+      "dica": "Romance brasileiro de 1937."
+    },
+    {
+      "pergunta": "A língua com mais falantes nativos é:",
+      "alternativas": [
+        "a) Inglês",
+        "b) Mandarim",
+        "c) Hindi",
+        "d) Espanhol"
+      ],
+      "resposta": "b",
+      "dica": "Lidera por número de nativos."
+    }
+  ],
+  "tecnologia": [
+    {
+      "pergunta": "Qual é a finalidade de uso do HTML?",
+      "alternativas": [
+        "a) Criar funcionalidades",
+        "b) Marcar e estruturar conteúdo web",
+        "c) Aplicar estilos visuais",
+        "d) Armazenar grandes volumes de dados"
+      ],
+      "resposta": "b",
+      "dica": "É uma linguagem de marcação para estruturar títulos, parágrafos, links etc."
+    },
+    {
+      "pergunta": "Qual tecnologia é usada para estilizar páginas web?",
+      "alternativas": [
+        "a) HTML",
+        "b) CSS",
+        "c) JavaScript",
+        "d) SQL"
+      ],
+      "resposta": "b",
+      "dica": "Pense em cores, fontes e espaçamentos."
+    },
+    {
+      "pergunta": "O que o método fetch() faz no JavaScript?",
+      "alternativas": [
+        "a) Cria elementos no DOM",
+        "b) Realiza requisições HTTP assíncronas",
+        "c) Executa comandos SQL",
+        "d) Compila o código"
+      ],
+      "resposta": "b",
+      "dica": "Retorna uma Promise que resolve com uma Response."
+    },
+    {
+      "pergunta": "Qual tag HTML define o conteúdo principal da página?",
+      "alternativas": [
+        "a) <section>",
+        "b) <article>",
+        "c) <main>",
+        "d) <footer>"
+      ],
+      "resposta": "c",
+      "dica": "É a área principal, única por página."
+    },
+    {
+      "pergunta": "Para iterar uma lista de objetos em JS, qual laço é adequado?",
+      "alternativas": [
+        "a) for...of",
+        "b) while(true)",
+        "c) switch",
+        "d) goto"
+      ],
+      "resposta": "a",
+      "dica": "Percorre iteráveis de forma simples."
+    },
+    {
+      "pergunta": "Qual atributo melhora a acessibilidade de imagens?",
+      "alternativas": [
+        "a) src",
+        "b) alt",
+        "c) href",
+        "d) name"
+      ],
+      "resposta": "b",
+      "dica": "Leitores de tela usam a descrição opcional."
+    },
+    {
+      "pergunta": "Qual resposta descreve corretamente o JSON?",
+      "alternativas": [
+        "a) Formato binário de imagens",
+        "b) Formato de texto para dados chave-valor",
+        "c) Banco de dados relacional",
+        "d) Linguagem de estilo"
+      ],
+      "resposta": "b",
+      "dica": "JavaScript Object Notation, leve e legível."
+    },
+    {
+      "pergunta": "O que significa DOM?",
+      "alternativas": [
+        "a) Document Object Model",
+        "b) Data Object Mapper",
+        "c) Domain Object Model",
+        "d) Document Orientation Map"
+      ],
+      "resposta": "a",
+      "dica": "Representa a estrutura do documento em nós/elementos."
+    },
+    {
+      "pergunta": "Qual seletor pega um elemento por id no JS?",
+      "alternativas": [
+        "a) document.querySelector(\".id\")",
+        "b) document.getElementById(\"id\")",
+        "c) document.byId(\"id\")",
+        "d) window.id(\"id\")"
+      ],
+      "resposta": "b",
+      "dica": "É uma pegadinha, pois este é específico para id."
+    },
+    {
+      "pergunta": "Qual propriedade CSS cria um layout bidimensional?",
+      "alternativas": [
+        "a) Flexbox",
+        "b) Grid",
+        "c) Position absolute",
+        "d) Float"
+      ],
+      "resposta": "b",
+      "dica": "É ideal para visuais 2D (linhas e colunas)."
+    },
+    {
+      "pergunta": "O que é async/await?",
+      "alternativas": [
+        "a) Novo tipo de dado",
+        "b) Sintaxe para promises assíncronas",
+        "c) Biblioteca de UI",
+        "d) API do navegador"
+      ],
+      "resposta": "b",
+      "dica": "Sintaxe para trabalhar com carregamento prévio."
+    },
+    {
+      "pergunta": "Qual evento dispara ao enviar um formulário?",
+      "alternativas": [
+        "a) change",
+        "b) click",
+        "c) submit",
+        "d) input"
+      ],
+      "resposta": "c",
+      "dica": "Use e.preventDefault() para impedir recarga."
+    }
+  ]
+}

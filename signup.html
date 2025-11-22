@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cadastrar - OwlMind</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body data-page="signup">
+  <main class="signup-layout container">
+    <aside class="signup-mascote card">
+      <img src="assets/img/Corujinha_animada.png" alt="Corujinha animada" class="mascote" />
+    </aside>
+    <section class="signup-section card">
+      <h2>Criar conta</h2>
+      <form id="signup-form" autocomplete="on">
+        <div class="field">
+          <label for="nome">Nome</label>
+          <input id="nome" type="text" required />
+        </div>
+        <div class="field">
+          <label for="email">E-mail</label>
+          <input id="email" type="email" required />
+        </div>
+        <div class="field">
+          <label for="apelido">Apelido</label>
+          <input id="apelido" type="text" />
+        </div>
+        <div class="field">
+          <label for="senhaCadastro">Senha (mín. 6)</label>
+          <input id="senhaCadastro" type="password" minlength="6" required />
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-primary" type="submit">Gravar</button>
+          <a class="btn" href="index.html">Cancelar</a>
+        </div>
+        <div role="alert" id="signup-alert" class="alert" hidden></div>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+  <div class="container footer__content">
+    <p class="footer-title">OwlMind</p>
+    <div class="social">
+      <a href="https://github.com/DioNathanSoares" target="_blank"><img src="assets/img/github.png" alt="GitHub"></a>
+      <a href="https://www.linkedin.com/in/dionatansoares/" target="_blank"><img src="assets/img/linkedin.png" alt="LinkedIn"></a>
+    </div>
+      <small>© 2025 OwlMind • Todos os direitos reservados</small>
+    </div>
+  </footer>
+
+<script src="assets/js/owlmind.js"></script>
+
+</body>
+</html>

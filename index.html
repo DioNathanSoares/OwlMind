@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OwlMind - Mente afiada como uma coruja</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="home">
+<header class="banner">
+  <img src="assets/img/banner.png" alt="Banner OwlMind" class="banner__img">
+</header>
+<main class="home-layout">
+  <aside class="login-section">
+    <img src="assets/img/Corujinha_animada.png" alt="Corujinha" class="mascote">
+    <h2>Login</h2>
+    <form id="login-form">
+      <input type="text" placeholder="Usuário" id="usuario">
+      <input type="password" placeholder="Senha" id="senha">
+      <div class="btn-group">
+        <button type="button" id="signup-btn" class="btn btn-secondary">Criar conta</button>
+        <button type="submit" class="btn btn-primary">Entrar</button>
+      </div>
+      <div id="login-alert" class="alert" hidden></div>
+    </form>
+  </aside>
+  <section class="carousel-section">
+    <div class="carousel">
+      <div class="carousel-item active">
+        <h3>Vamos aprender juntos???</h3>
+        <p>A nossa plataforma visa proporcionar um ambiente de compartilhamento de conhecimento.</p>
+        <p>Escolha o seu tema favorito e se desafie!</p><br>
+        <p>Para conquistar a vitória, acerte 60% ou mais do desafio.</p>
+        <h4>O Owl vai te ajudar nessa jornada</h4>
+      </div>
+      <div class="carousel-item">
+        <h3>Novidades estão vindo!!!!</h3>
+        <p>Nova interface com IA, novos recursos e relatórios de desempenho.
+          <br><br>
+        <p>Confira nossas melhorias no site <a href="https://github.com/DioNathanSoares" target="_blank">Release Notes</a></p>
+        </p>
+      </div>
+      <div class="carousel-item">
+        <h3>Segurança online</h3>
+        <p>Fique atento às compras online e golpes virtuais.</p>
+        <br>
+        <p>Estamos em período de grandes ofertas e promoções.</p>
+        <p>Desconfie de promoções e condições de pagamento única.</p>
+        <p>Em caso de dúvidas, entre em contato com órgãos de defesa do consumidor e proteja-se.</p>
+      </div>
+    </div>
+    <div class="carousel__indicators">
+      <button class="dot active" data-idx="0"></button>
+      <button class="dot" data-idx="1"></button>
+      <button class="dot" data-idx="2"></button>
+    </div>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="footer__content">
+    <p class="footer-title">OwlMind</p>
+    <div class="social">
+      <a href="https://github.com/DioNathanSoares" target="_blank"><img src="assets/img/github.png" alt="GitHub"></a>
+      <a href="https://www.linkedin.com/in/dionatansoares/" target="_blank"><img src="assets/img/linkedin.png" alt="LinkedIn"></a>
+    </div>
+    <small>© 2025 OwlMind • Todos os direitos reservados</small>
+  </div>
+</footer>
+<script src="assets/js/owlmind.js"></script>
+</body>
+</html>
