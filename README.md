@@ -2,8 +2,6 @@
 
 > Um projeto front‑end simples e elegante para quizzes de conhecimentos gerais, com páginas escopadas por `data-page`, carrossel na Home, cadastro, escolha do assunto, dinâmica de perguntas/respostas com feedback, modal de confirmação e utilitários.
 
-![OwlMind banner](assets/img/Corujinha_pensando.png)
-
 ---
 
 ## ✨ Recursos (Features)
